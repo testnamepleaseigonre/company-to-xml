@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <adress>Ozo g. 10A</adress>
+    <city>Vilnius</city>
+    <companyName>BMW</companyName>
+    <tel>(8 5) 274 0210</tel>
+    <url_adress>https://www.bmw.lt/lt/index.html</url_adress>
+    <vehicles>
+        <car>
+            <body_type>SUV / off-road</body_type>
+            <co2_emision>~231 g/km</co2_emision>
+            <date_of_manufacture>2008-01</date_of_manufacture>
+            <engine>3.0l</engine>
+            <fuel_type>diesel</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>235</hp>
+            <mileage>349256km</mileage>
+            <model>BMW X5</model>
+            <mot_expiry>2022-03</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>10800</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>coupe</body_type>
+            <co2_emision>~158 g/km</co2_emision>
+            <date_of_manufacture>2014-10</date_of_manufacture>
+            <engine>2.0l</engine>
+            <fuel_type>petrol</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>245</hp>
+            <mileage>157342km</mileage>
+            <model>BMW 428</model>
+            <mot_expiry>2021-08</mot_expiry>
+            <number_of_doors>2/3</number_of_doors>
+            <price>14999</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>sedan</body_type>
+            <co2_emision>~129 g/km</co2_emision>
+            <date_of_manufacture>2013-07</date_of_manufacture>
+            <engine>2.0l</engine>
+            <fuel_type>diesel</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>184</hp>
+            <mileage>199981km</mileage>
+            <model>BMW 520</model>
+            <mot_expiry>2022-11</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>14690</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>sedan</body_type>
+            <co2_emision>~123 g/km</co2_emision>
+            <date_of_manufacture>2009-06</date_of_manufacture>
+            <engine>1.8l</engine>
+            <fuel_type>diesel</fuel_type>
+            <gearbox>manual</gearbox>
+            <hp>105</hp>
+            <mileage>260000km</mileage>
+            <model>BMW 318</model>
+            <mot_expiry>2022-12</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>6499</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>sedan</body_type>
+            <co2_emision>~139 g/km</co2_emision>
+            <date_of_manufacture>2011-10</date_of_manufacture>
+            <engine>3.0l</engine>
+            <fuel_type>diesel</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>170</hp>
+            <mileage>266000km</mileage>
+            <model>BMW 530</model>
+            <mot_expiry>2023-01</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>12000</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>SUV / off-road</body_type>
+            <co2_emision>~299 g/km</co2_emision>
+            <date_of_manufacture>2009-09</date_of_manufacture>
+            <engine>4.8l</engine>
+            <fuel_type>petrol</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>355</hp>
+            <mileage>165000km</mileage>
+            <model>BMW X5</model>
+            <mot_expiry>2022-08</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>11500</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>SUV / off-road</body_type>
+            <co2_emision>~198 g/km</co2_emision>
+            <date_of_manufacture>2012-02</date_of_manufacture>
+            <engine>3.0l</engine>
+            <fuel_type>diesel</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>306</hp>
+            <mileage>286000km</mileage>
+            <model>BMW X6</model>
+            <mot_expiry>2023-02</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>19600</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>SUV / off-road</body_type>
+            <co2_emision>~157 g/km</co2_emision>
+            <date_of_manufacture>2019-03</date_of_manufacture>
+            <engine>2.0l</engine>
+            <fuel_type>diesel</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>190</hp>
+            <mileage>23049km</mileage>
+            <model>BMW X2</model>
+            <mot_expiry>2022-01</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>36900</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>wagon</body_type>
+            <co2_emision>~158 g/km</co2_emision>
+            <date_of_manufacture>2007-08</date_of_manufacture>
+            <engine>3.0l</engine>
+            <fuel_type>diesel</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>197</hp>
+            <mileage>318000km</mileage>
+            <model>BMW 530</model>
+            <mot_expiry>2021-09</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>4990</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+        <car>
+            <body_type>sedan</body_type>
+            <co2_emision>~142 g/km</co2_emision>
+            <date_of_manufacture>2014-03</date_of_manufacture>
+            <engine>2.0l</engine>
+            <fuel_type>petrol</fuel_type>
+            <gearbox>automatic</gearbox>
+            <hp>245</hp>
+            <mileage>110049km</mileage>
+            <model>BMW 528</model>
+            <mot_expiry>2022-05</mot_expiry>
+            <number_of_doors>4/5</number_of_doors>
+            <price>13999</price>
+            <steering_wheel>LHD</steering_wheel>
+        </car>
+    </vehicles>
+</company>

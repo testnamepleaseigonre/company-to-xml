@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: lt.viko.eif.vsubotkovski.companytoxml.models.VehiclesTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.031 sec <<< FAILURE!
+lt.viko.eif.vsubotkovski.companytoxml.models.VehiclesTest.testGetCars()  Time elapsed: 0.004 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:84)
+	at lt.viko.eif.vsubotkovski.companytoxml.models.VehiclesTest.testGetCars(VehiclesTest.java:37)
+
+lt.viko.eif.vsubotkovski.companytoxml.models.VehiclesTest.testSetCars()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:84)
+	at lt.viko.eif.vsubotkovski.companytoxml.models.VehiclesTest.testSetCars(VehiclesTest.java:50)
+
