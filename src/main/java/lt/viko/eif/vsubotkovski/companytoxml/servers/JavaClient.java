@@ -6,11 +6,9 @@
 package lt.viko.eif.vsubotkovski.companytoxml.servers;
 
 import java.io.BufferedInputStream;
-import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
@@ -54,6 +52,7 @@ public class JavaClient {
             while((count = in.read(bites)) > 0){
                 fos.write(bites, 0, count);
             }
+            //-------
         }
         return ans;
     }

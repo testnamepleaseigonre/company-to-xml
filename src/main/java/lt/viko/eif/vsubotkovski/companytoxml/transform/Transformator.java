@@ -29,6 +29,8 @@ public class Transformator {
      * Method dedicated to transform Company Object to XML by company object.
      *
      * @param company - object to transform to the XML file.
+     * @throws javax.xml.bind.PropertyException
+     * @throws java.io.FileNotFoundException
      */
     public void transformToXml(Company company) throws PropertyException, JAXBException, FileNotFoundException {
         // JAXB tranformation to XML logic
@@ -44,6 +46,8 @@ public class Transformator {
      *
      * @param fileName - XML document file path.
      * @return new Company object created from XML document
+     * @throws javax.xml.bind.JAXBException
+     * @throws java.io.IOException
      */
     public Company transformToObject(String fileName) throws JAXBException, IOException {
         // JAXB tranformation to POJO logic

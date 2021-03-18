@@ -8,8 +8,6 @@ package lt.viko.eif.vsubotkovski.companytoxml;
 import lt.viko.eif.vsubotkovski.companytoxml.models.Company;
 import java.io.IOException;
 import javax.xml.bind.JAXBException;
-import lt.viko.eif.vsubotkovski.companytoxml.servers.JavaClient;
-import lt.viko.eif.vsubotkovski.companytoxml.servers.JavaServer;
 import lt.viko.eif.vsubotkovski.companytoxml.transform.Transformator;
 
 /**

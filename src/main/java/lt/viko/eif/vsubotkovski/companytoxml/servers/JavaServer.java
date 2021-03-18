@@ -5,9 +5,7 @@
  */
 package lt.viko.eif.vsubotkovski.companytoxml.servers;
 
-import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
@@ -16,7 +14,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.PrintWriter;
-import java.io.Writer;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -83,6 +80,7 @@ public class JavaServer {
         try {
             in.close();
             out.close();
+            pwrt.close();
             clientSocket.close();
             serverSocket.close();
         } catch (IOException ex) {
